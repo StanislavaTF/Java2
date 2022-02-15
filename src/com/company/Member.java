@@ -1,8 +1,5 @@
 package com.company;
 
-
-import java.util.Random;
-
 class Member {
     private String name;
     private int raceResult;
@@ -11,8 +8,6 @@ class Member {
     private int speedRun;
     private int speedSwim;
     private int speedBike;
-
-
 
     public Member(String name, int raceResult, int swimResult, int bikeResult, int speedRun,
                   int speedSwim, int speedBike) {
