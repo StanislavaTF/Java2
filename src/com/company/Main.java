@@ -16,7 +16,5 @@ class Team {
         for (Member member:members ) {
             System.out.println(member.toString());
         }
-
     }
-
 }

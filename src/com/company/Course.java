@@ -2,7 +2,6 @@ package com.company;
 
 public class Course {
     String result;
-
     private int runDistance100;
     private int bikeDistance5000;
     private int swim200;
